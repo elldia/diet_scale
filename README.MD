@@ -18,6 +18,7 @@
 
 ---
 <p>2. DOM객체 변수 생성하기.</p>
+
 `const span_height = document.getElementsByClassName('height')[0]`
 
 `const span_weight = document.getElementsByClassName('weight')[0]`
@@ -28,6 +29,7 @@
 
 ---
 <p>검사</p>
+
 `console.log(userHeight, userWeight, normal_w, result)`
 
 `console.log(span_height, span_normal, span_weight, span_weight2)`
